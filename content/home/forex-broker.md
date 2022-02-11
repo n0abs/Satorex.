@@ -2,12 +2,11 @@
 widget: featured
 widget_id: forex-broker
 headless: true
-active = true  # Activate this widget? true/false
 weight: 2
 active: true
 
-title = "Satorex. Recommendations"
-subtitle = "This are the hottest recommendations we can give!"
+title: "Satorex. Recommendations"
+subtitle: "This are the hottest recommendations we can give!"
 
 
 design:
