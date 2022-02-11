@@ -1,7 +1,7 @@
 ---
 title: LionFXM 100% honest Review (lionfxm.com)
-subtitle: Read our LionFXM review to see if we recommend this broker for
-  trading. Just to clarify, this is a lionfxm.com review.
+subtitle: Read our **LionFXM** review to see if we recommend this broker for
+  trading. Just to clarify, this is a **lionfxm.com** review.
 date: 2022-02-11T18:30:44.051Z
 summary: Read our LionFXM review to see if we recommend this broker for trading. Just to clarify, this is a lionfxm.com review.
 draft: false
