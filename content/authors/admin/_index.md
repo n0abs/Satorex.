@@ -3,10 +3,7 @@ title: Ruben Jansen
 role: ""
 avatar_filename: avatar-ruben-jansen.jpg
 bio: I fight fraud with technical expertise.
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+interests: []
 social: []
 organizations: []
 education:
