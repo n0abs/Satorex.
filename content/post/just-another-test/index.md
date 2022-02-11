@@ -16,7 +16,7 @@ categories:
   - broker-review
   - scam-review
 image:
-  filename: protrade.fm_.png
+  filename: protradefm.png
   focal_point: smart
   placement: 2
   preview_only: false
