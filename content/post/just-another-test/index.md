@@ -16,8 +16,8 @@ categories:
   - broker-review
   - scam-review
 image:
-  filename: www.upsalefx.com_.png
-  focal_point: Smart
+  filename: protrade.fm_.png
+  focal_point: smart
   preview_only: false
   caption: what is this caption?
 ---
