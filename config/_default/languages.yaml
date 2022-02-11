@@ -1,12 +1,26 @@
 # Languages
 #   Create a section for each of your site's languages.
-#   Documentation: https://wowchemy.com/docs/guide/language/
+#   Documentation: https://wowchemy.com/docs/hugo-tutorials/language/
 
 # Default language
 en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  contentDir: content/en
+
+# Uncomment the lines below to configure your website in a second language.
+de:
+  languageCode: de-de
+  contentDir: content/de
+#  title: German website title...
+#  params:
+#    description: Site description in German...
+#  menu:
+#    main:
+#      - name: 传
+#        url: '#about'
+#        weight: 1
+
 
 # Uncomment the lines below to configure your website in a second language.
 #zh:
