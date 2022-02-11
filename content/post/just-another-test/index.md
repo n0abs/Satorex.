@@ -18,7 +18,7 @@ categories:
 image:
   filename: www.upsalefx.com_.png
   focal_point: Smart
-  preview_only: false
+  preview_only: true
   caption: what is this caption?
 ---
 Here is the body content
