@@ -22,7 +22,7 @@ projects: []
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)"
   focal_point: center
-  placement: 3
+  placement: 2
   preview_only: false
 ---
 

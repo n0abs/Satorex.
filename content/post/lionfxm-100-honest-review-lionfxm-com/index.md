@@ -18,6 +18,7 @@ image:
   filename: lionfxm.com_en_home-2_-1-.png
   focal_point: Smart
   preview_only: false
+  placement: 2
 ---
 ![Screenshot of lionfxm.com](lionfxm.com_en_home-2_-1-.png "Screenshot of lionfxm.com")
 
