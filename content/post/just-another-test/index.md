@@ -18,6 +18,7 @@ categories:
 image:
   filename: protrade.fm_.png
   focal_point: smart
+  placement: 2
   preview_only: false
   caption: what is this caption?
 ---
