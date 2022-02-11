@@ -1,6 +1,6 @@
 ---
 title: Ruben Jansen
-role: Professor of Artificial Intelligence
+role: ""
 avatar_filename: avatar-ruben-jansen.jpg
 bio: I fight fraud with technical expertise.
 interests:
