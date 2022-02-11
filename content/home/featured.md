@@ -1,6 +1,6 @@
 ---
 widget: featured
-widget_id: featured-posts
+widget_id: Recommendations
 headless: true
 weight: 80
 title: Featured Publications
@@ -16,5 +16,5 @@ content:
   order: desc
 design:
   view: 3
-  columns: "1"
+  columns: "2"
 ---
