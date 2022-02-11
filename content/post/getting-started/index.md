@@ -10,8 +10,7 @@ summary: Welcome 👋 We know that first impressions are important, so we've
 draft: false
 featured: true
 authors:
-  - Ruben Jansen
-  - 吳恩達
+  - admin
 lastmod: 2020-12-13T00:00:00.000Z
 tags:
   - Academic
