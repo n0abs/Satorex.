@@ -4,7 +4,7 @@ widget_id: forex-broker
 headless: true
 weight: 2
 active: true
-title: "Satorex. Recommendations"
+title: "Recommendations"
 subtitle: "This are the hottest recommendations we can give!"
 design:
 columns: "2"
