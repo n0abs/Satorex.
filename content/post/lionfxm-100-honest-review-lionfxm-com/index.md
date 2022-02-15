@@ -15,12 +15,11 @@ categories:
   - review
   - forex-broker
 image:
-  filename: lionfxm.com_en_home-2_-1-.png
   focal_point: center
   preview_only: false
   placement: 2
+  caption: Screenshot of lionfxm.com
 ---
-![Screenshot of lionfxm.com](lionfxm.com_en_home-2_-1-.png "Screenshot of lionfxm.com")
 
 <!--StartFragment-->
 
