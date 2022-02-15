@@ -4,7 +4,7 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Reviews
+  - name: Rezensionen
     url: '/category/review/'
     weight: 10
   - name: Forex Broker
@@ -13,9 +13,9 @@ main:
   - name: Autotrading
     url: '/category/autotrader/'
     weight: 30
-  - name: Ponzi Schemes
+  - name: Schneeballsysteme
     url: '/category/ponzi/'
     weight: 40
-  - name: Recommendation
+  - name: Empfehlungen
     url: '/category/recommendation/'
     weight: 50
