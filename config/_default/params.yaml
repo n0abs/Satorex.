@@ -93,13 +93,13 @@ edit_page:
 show_related:
   book: false
   page: false
-  post: true
+  post: false
   project: false
   publication: false
   event: false
 reading_time: true
 section_pager: false
-docs_section_pager: true
+docs_section_pager: false
 sharing: true
 copyright_license:
   enable: false
@@ -158,4 +158,4 @@ cms:
   local_backend: false
 icon:
   pack:
-    ai: true
+    ai: false
