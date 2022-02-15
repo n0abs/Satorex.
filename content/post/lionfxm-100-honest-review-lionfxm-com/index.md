@@ -5,7 +5,7 @@ subtitle: Read our **LionFXM** review to see if we recommend this broker for
 date: 2022-02-11T18:30:44.051Z
 summary: Read our LionFXM review to see if we recommend this broker for trading. Just to clarify, this is a lionfxm.com review.
 draft: false
-featured: false
+featured: true
 authors:
   - admin
 tags:
