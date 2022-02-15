@@ -2,7 +2,7 @@
 title: Ruben Jansen
 role: ""
 avatar_filename: avatar-ruben-jansen.jpg
-bio: I was studying computer science when a terrible thing happened to my family. My grandfather had clicked on an advertisement on the Internet. He was called for months by a personal advisor. This advisor supposedly invested my grandpa's money. In reality, my grandpa was scammed, he lost €74,000 and had signed a loan of more than €32,000. Back then, I asked friends from my football club how to find these fraudsters or what we could do. My friends and I were surprised when we realised how big the scam industry is. Together we decided to fight against this industry.
+bio: Ich studierte gerade Informatik, als meiner Familie etwas Schreckliches passierte. Mein Großvater hatte auf eine Anzeige im Internet geklickt. Er wurde monatelang von einem persönlichen Berater angerufen. Dieser Berater legte angeblich das Geld meines Großvaters an. In Wirklichkeit wurde mein Großvater betrogen, er verlor 74.000 Euro und hatte einen Kredit über 32.000 Euro aufgenommen. Damals habe ich Freunde aus meinem Fußballverein gefragt, wie wir diese Betrüger finden oder was wir tun könnten. Meine Freunde und ich waren überrascht, als wir feststellten, wie groß die Betrugsindustrie ist. Gemeinsam beschlossen wir, gegen diese Branche zu kämpfen.
 interests: []
 social: []
 organizations: []
@@ -14,6 +14,6 @@ highlight_name: true
 ---
 <!--StartFragment-->
 
-I was studying computer science when a terrible thing happened to my family. My grandfather had clicked on an advertisement on the Internet. He was called for months by a personal advisor. This advisor supposedly invested my grandpa's money. In reality, my grandpa was scammed, he lost €74,000 and had signed a loan of more than €32,000. Back then, I asked friends from my football club how to find these fraudsters or what we could do. My friends and I were surprised when we realised how big the scam industry is. Together we decided to fight against this industry.
+Ich studierte gerade Informatik, als meiner Familie etwas Schreckliches passierte. Mein Großvater hatte auf eine Anzeige im Internet geklickt. Er wurde monatelang von einem persönlichen Berater angerufen. Dieser Berater legte angeblich das Geld meines Großvaters an. In Wirklichkeit wurde mein Großvater betrogen, er verlor 74.000 Euro und hatte einen Kredit über 32.000 Euro aufgenommen. Damals habe ich Freunde aus meinem Fußballverein gefragt, wie wir diese Betrüger finden oder was wir tun könnten. Meine Freunde und ich waren überrascht, als wir feststellten, wie groß die Betrugsindustrie ist. Gemeinsam beschlossen wir, gegen diese Branche zu kämpfen.
 
 <!--EndFragment-->
