@@ -13,7 +13,7 @@ main:
   - name: Autotrading
     url: '/category/autotrader/'
     weight: 30
-  - name: Schneeballsysteme
+  - name: Ponzi Systeme
     url: '/category/ponzi/'
     weight: 40
   - name: Empfehlungen
