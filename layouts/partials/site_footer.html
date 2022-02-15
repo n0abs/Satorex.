@@ -39,7 +39,7 @@
     {{ if not (and $is_sponsor $hide_published_with_footer) }}
       {{ $default := "Satorex. Making the right decision every day. Fighting Fraud. Honest Reviews." }}
       {{ $i18n_published_with := i18n "published_with" | default $default }}
-      {{ if not (findRE "{wowchemy}" $i18n_published_with) }}
+      {{ if not (findRE "{footertext}" $i18n_published_with) }}
         {{ warnf "Please attribute Wowchemy using `{wowchemy}` in the `published_with` text." }}
         {{ $i18n_published_with = $default }}
       {{ end }}
