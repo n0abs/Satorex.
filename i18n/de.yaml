@@ -11,7 +11,7 @@
 - id: close
   translation: Close
 - id: languages
-  translation: 语言
+  translation: Sprachen
 - id: related
   translation: Ähnliches
 - id: minute_read

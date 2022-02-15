@@ -16,7 +16,7 @@ categories:
   - forex-broker
 image:
   filename: lionfxm.com_en_home-2_-1-.png
-  focal_point: Smart
+  focal_point: center
   preview_only: false
   placement: 2
 ---
@@ -50,7 +50,7 @@ That’s why you must always turn to crypto exchanges, because cryptocurrencies 
 
 Providers like **LionFXM** usually do not pay out the money again. You have to exploit a weakness of your personal account manager. These employees are paid from the deposit. Discuss a test withdrawal with your personal account manager so that you dare to make a larger deposit. Try 50% of your own deposit. Don’t be stupid! Do it yourself and not with Anydesk or Teamviewer. Either your adviser will cheat you or you will cheat him. There is no other truth.
 
-## Can I charge back my payment?
+## Can I chargeback my payment?
 
 It depends on the details. Sometimes there is the possibility to get the money back via Visa, Mastercard or other means of payment. The time component is important.
 
@@ -66,7 +66,7 @@ If it was a crypto exchange, you have no chance. This company delivered the cryp
 
 If you made the payment today or yesterday, call the bank IMMEDIATELY. The bank can recall transfers. Some banks claim they can’t, but that’s nonsense. Put pressure on them.
 
-Then go to **[IBANCalculator](https://www.ibancalculator.com/)** and enter the IBAN of the recipient. This page will show you the recipient’s bank. Call the recipient’s bank and explain that this person is working with a fake investment company called **LionFXM**, which is not regulated, and that you have been tricked into transferring money with lies.
+Then go to **[IBANCalculator](https://www.ibancalculator.com/)** and enter the IBAN of the recipient. This page will show you the recipient’s bank. Call the recipient’s bank and explain that this person is working with a fake investment company called **LionFXM**, which is not regulated, and that you have been tricked into transferring money with lies.
 
 If the bank is in another country, you can use Google Translate and send a very detailed email. You can find the contact information on the bank’s page.
 
