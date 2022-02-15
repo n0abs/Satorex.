@@ -11,6 +11,7 @@ authors:
 tags:
   - review
   - lionfxm
+  - lionfxm.com
 categories:
   - review
   - forex-broker
