@@ -20,6 +20,7 @@ image:
   preview_only: false
   placement: 2
   caption: Screenshot of lionfxm.com
+translationKey: LionFXM
 ---
 
 <!--StartFragment-->

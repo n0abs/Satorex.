@@ -1,5 +1,5 @@
 ---
-title: LionFXM 100% honest Review (lionfxm.com)
+title: badabutz (lionfxm.com)
 subtitle: Read our **LionFXM** review to see if we recommend this broker for
   trading. Just to clarify, this is a **lionfxm.com** review.
 date: 2022-02-11T18:30:44.051Z
@@ -20,6 +20,7 @@ image:
   preview_only: false
   placement: 2
   caption: Screenshot of lionfxm.com
+translationKey: LionFXM
 ---
 
 <!--StartFragment-->
