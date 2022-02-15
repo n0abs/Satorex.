@@ -87,6 +87,6 @@ The fraudsters are mostly based in economically weak countries where corruption 
 
 ## Did we protect you?
 
-If you’re really looking for a way to build your wealth through investing, take a look at our **[recommended brokers](https://satorex.com/recommendations/)**. We know what details you need to look out for. Investing money is a smart thing to do, but only if you rely on trustworthy companies.
+If you’re really looking for a way to build your wealth through investing, take a look at our **[recommended brokers](../../category/recommendation/)**. We know what details you need to look out for. Investing money is a smart thing to do, but only if you rely on trustworthy companies.
 
 <!--EndFragment-->
