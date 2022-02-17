@@ -1,0 +1,157 @@
+- id: toggle_navigation
+  translation: Показване на навигацията
+- id: table_of_contents
+  translation: Съдържание
+- id: on_this_page
+  translation: На тази страница
+- id: back_to_top
+  translation: Върнете се в началото
+- идентификатор: home
+  translation: Home
+- id: close
+  translation: Затвори
+- id: languages
+  translation: езици
+- идентификатор: свързан
+  translation: Свързани
+- id: minute_read
+  translation: мин. време за четене
+- id: предишен
+  translation: Назад
+- id: next
+  translation: Следващ
+- идентификатор: фигура
+  translation: 'Figure %d:'
+- id: edit_page
+  translation: 'Редактиране на страница
+- id: theme_selector
+  translation: Настройки на дисплея
+- id: theme_light
+  translation: Light
+- id: theme_dark
+  translation: Dark
+- id: theme_auto
+  translation: Автоматично
+- id: btn_preprint
+  translation: Предпечат
+- id: btn_pdf
+  translation: PDF
+- id: btn_cite
+  translation: Cite
+- id: btn_slides
+  translation: Slides
+- id: btn_video
+  translation: Видео
+- id: btn_code
+  translation: Код
+- id: btn_dataset
+  translation: набор от данни
+- id: btn_project
+  translation: Проект
+- id: btn_poster
+  translation: Плакат
+- id: btn_source
+  translation: Изходен документ
+- id: btn_copy
+  translation: копие
+- id: btn_download
+  translation: Изтегляне
+- идентификатор: интереси
+  translation: Интереси
+- идентификатор: образование
+  translation: Образование
+- id: user_profile_latest
+  translation: Последни
+- id: see_certificate
+  translation: Покажи сертификат
+- id: present
+  translation: Current
+- id: more_pages
+  translation: Покажи всички
+- id: more_posts
+  translation: Още публикации в блога
+- id: more_talks
+  translation: Повече разговори
+- id: more_publications
+  translation: Още публикации
+- id: contact_name
+  translation: Име
+- id: contact_email
+  translation: E-mail
+- id: contact_message
+  translation: Съобщение
+- id: contact_send
+  translation: Изпрати
+- id: book_appointment
+  translation: Направете среща
+- id: abstract
+  translation: резюме
+- id: публикация
+  translation: Публикация
+- id: publication_type
+  translation: Тип
+- id: дата
+  translation: Дата
+- id: last_updated
+  translation: Последно актуализиран на
+- id: събитие
+  translation: Събитие
+- id: местоположение
+  translation: Местоположение
+- id: pub_uncat
+  translation: Без категория
+- id: pub_conf
+  translation: доклад от конференция
+- id: pub_journal
+  translation: статия в списание
+- id: pub_preprint
+  translation: Предпечат
+- id: pub_report
+  translation: Доклад
+- id: pub_book
+  translation: Книга
+- id: pub_book_section
+  translation: Глава от книга
+- id: pub_thesis
+  translation: дипломна работа
+- id: pub_patent
+  translation: Патент
+- id: open_project_site
+  translation: До обекта на проекта
+- id: публикации
+  translation: Блог
+- id: публикации
+  translation: Публикации
+- id: разговори
+  translation: Разговори
+- id: projects
+  translation: Проекти
+- id: слайдове
+  translation: Slides
+- id: автори
+  translation: Автори
+- идентификатор: търсене
+  translation: Търсене
+- id: search_placeholder
+  translation: Търсене...
+- id: search_results
+  translation: Резултати от търсенето
+- id: search_no_results
+  translation: Нищо не е намерено
+- id: search_common_queries
+  translation: Общи търсения
+- id: page_not_found
+  translation: Страницата не е намерена
+- id: 404_recommendations
+  translation: Може би търсите някоя от следните страници?
+- id: cookie_message
+  translation: Използваме "бисквитки", за да оптимизираме и непрекъснато да подобряваме нашия уебсайт за вас.
+- id: cookie_dismiss
+  translation: Разбрах!
+- id: cookie_learn
+  translation: Научете повече
+- id: published_with
+  translation: Публикувано с {wowchemy} - безплатния, {repo_link}отворен източник{/repo_link} Сайт конструктор, който дава възможност на създателите.
+
+
+Translated with www.DeepL.com/Translator (free version)

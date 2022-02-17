@@ -1,0 +1,157 @@
+- id: toggle_navigation
+  translation: Zobraziť navigáciu
+- id: table_of_contents
+  translation: Obsah
+- id: on_this_page
+  translation: Na tejto stránke
+- id: back_to_top
+  translation: Späť na začiatok
+- id: home
+  translation: Home
+- id: close
+  translation: Zatvoriť
+- id: jazyky
+  translation: jazyky
+- id: súvisiace
+  translation: Súvisiace
+- id: minute_read
+  translation: min čas čítania
+- id: predchádzajúci
+  translation: Späť
+- id: ďalšie
+  translation: Ďalšie
+- id: postava
+  translation: "Obrázok %d:
+- id: edit_page
+  translation: "Upraviť stránku
+- id: theme_selector
+  translation: Nastavenia zobrazenia
+- id: theme_light
+  translation: Svetlo
+- id: theme_dark
+  translation: Tmavý
+- id: theme_auto
+  translation: Automatický
+- id: btn_preprint
+  translation: Predtlač
+- id: btn_pdf
+  translation: PDF
+- id: btn_cite
+  translation: Citovať
+- id: btn_slides
+  translation: Slides
+- id: btn_video
+  translation: Video
+- id: btn_code
+  translation: Kód
+- id: btn_dataset
+  translation: Súbor údajov
+- id: btn_project
+  translation: Projekt
+- id: btn_poster
+  translation: Plagát
+- id: btn_source
+  translation: Zdrojový dokument
+- id: btn_copy
+  translation: Kopírovať
+- id: btn_download
+  translation: Na stiahnutie
+- id: záujmy
+  translation: Záujmy
+- id: vzdelávanie
+  translation: Vzdelávanie
+- id: user_profile_latest
+  translation: Najnovšie
+- id: see_certificate
+  translation: Zobraziť certifikát
+- id: present
+  translation: Aktuálne
+- id: more_pages
+  translation: Zobraziť všetky
+- id: more_posts
+  translation: Viac príspevkov na blogu
+- id: more_talks
+  translation: Ďalšie rozhovory
+- id: more_publications
+  translation: Ďalšie publikácie
+- id: contact_name
+  translation: Názov
+- id: contact_email
+  translation: E-mail
+- id: contact_message
+  translation: Správa
+- id: contact_send
+  translation: Odoslať
+- id: book_appointment
+  translation: Dohodnite si stretnutie
+- id: abstract
+  translation: abstrakt
+- id: publikácia
+  translation: Publikácia
+- id: publication_type
+  translation: Typ
+- id: dátum
+  translation: Dátum
+- id: last_updated
+  translation: Naposledy aktualizované dňa
+- id: udalosť
+  translation: Udalosť
+- id: umiestnenie
+  translation: Umiestnenie
+- id: pub_uncat
+  translation: Nezaradené
+- id: pub_conf
+  translation: Konferenčný príspevok
+- id: pub_journal
+  translation: článok v časopise
+- id: pub_preprint
+  translation: Predtlač
+- id: pub_report
+  translation: Správa
+- id: pub_book
+  translation: Kniha
+- id: pub_book_section
+  translation: Kapitola knihy
+- id: pub_thesis
+  translation: Diplomová práca
+- id: pub_patent
+  translation: Patent
+- id: open_project_site
+  translation: Na miesto projektu
+- id: príspevky
+  translation: Blog
+- id: publikácie
+  translation: Publikácie
+- id: rozhovory
+  translation: Rozhovory
+- id: projekty
+  translation: Projekty
+- id: diapozitívy
+  translation: Slides
+- id: autori
+  translation: Autori
+- id: vyhľadávanie
+  translation: Vyhľadávanie
+- id: search_placeholder
+  translation: Vyhľadávanie...
+- id: search_results
+  translation: Výsledky vyhľadávania
+- id: search_no_results
+  translation: Nič sa nenašlo
+- id: search_common_queries
+  translation: Spoločné vyhľadávanie
+- id: page_not_found
+  translation: Stránka nebola nájdená
+- id: 404_recommendations
+  translation: Možno hľadáte jednu z nasledujúcich stránok?
+- id: cookie_message
+  translation: Súbory cookie používame na optimalizáciu a neustále zlepšovanie našich webových stránok.
+- id: cookie_dismiss
+  translation: Rozumiem!
+- id: cookie_learn
+  translation: Zistite viac
+- id: published_with
+  translation: Publikované s {wowchemy} - bezplatný, {repo_link}open source{/repo_link} tvorca webových stránok, ktorý posilňuje tvorcov.
+
+
+Translated with www.DeepL.com/Translator (free version)
