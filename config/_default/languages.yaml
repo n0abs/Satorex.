@@ -21,6 +21,69 @@ de:
 #        url: '#about'
 #        weight: 1
 
+bg:
+  languageCode: bg
+  contentDir: content/bg
+cs:
+  languageCode: cs
+  contentDir: content/cs
+da:
+  languageCode: da
+  contentDir: content/da
+el:
+  languageCode: el
+  contentDir: content/el
+es:
+  languageCode: es
+  contentDir: content/es
+et:
+  languageCode: et
+  contentDir: content/et
+fi:
+  languageCode: fi
+  contentDir: content/fi
+fr:
+  languageCode: fr
+  contentDir: content/fr
+hu:
+  languageCode: hu
+  contentDir: content/hu
+it:
+  languageCode: it
+  contentDir: content/it
+ja:
+  languageCode: ja
+  contentDir: content/ja
+lt:
+  languageCode: lt
+  contentDir: content/lt
+lv:
+  languageCode: lv
+  contentDir: content/lv
+nl:
+  languageCode: nl
+  contentDir: content/nl
+pl:
+  languageCode: pl
+  contentDir: content/pl
+pt:
+  languageCode: pt
+  contentDir: content/pt
+ro:
+  languageCode: ro
+  contentDir: content/ro
+ru:
+  languageCode: ru
+  contentDir: content/ru
+sk:
+  languageCode: sk
+  contentDir: content/sk
+sv:
+  languageCode: sv
+  contentDir: content/sv
+zh:
+  languageCode: zh
+  contentDir: content/zh
 
 # Uncomment the lines below to configure your website in a second language.
 #zh:
