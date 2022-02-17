@@ -1,155 +1,265 @@
+# Navigation
+
 - id: toggle_navigation
-  translation: Показване на навигацията
+  translation: Toggle navigation
+
 - id: table_of_contents
-  translation: Съдържание
+  translation: Table of Contents
+
 - id: on_this_page
-  translation: На тази страница
+  translation: Contents
+
 - id: back_to_top
-  translation: Върнете се в началото
-- идентификатор: home
+  translation: Back to top
+
+- id: home
   translation: Home
+
 - id: close
-  translation: Затвори
+  translation: Close
+
 - id: languages
-  translation: езици
-- идентификатор: свързан
-  translation: Свързани
+  translation: Languages
+
+# General
+
+- id: related
+  translation: Related
+
 - id: minute_read
-  translation: мин. време за четене
-- id: предишен
-  translation: Назад
+  translation: min read
+
+- id: previous
+  translation: Previous
+
 - id: next
-  translation: Следващ
-- идентификатор: фигура
+  translation: Next
+
+- id: figure
   translation: 'Figure %d:'
+
 - id: edit_page
-  translation: 'Редактиране на страница
+  translation: Edit this page
+
+# Themes
+
 - id: theme_selector
-  translation: Настройки на дисплея
+  translation: Display preferences
+
 - id: theme_light
   translation: Light
+
 - id: theme_dark
   translation: Dark
+
 - id: theme_auto
-  translation: Автоматично
+  translation: Automatic
+
+# Buttons
+
 - id: btn_preprint
-  translation: Предпечат
+  translation: Preprint
+
 - id: btn_pdf
   translation: PDF
+
 - id: btn_cite
   translation: Cite
+
 - id: btn_slides
   translation: Slides
+
 - id: btn_video
-  translation: Видео
+  translation: Video
+
 - id: btn_code
-  translation: Код
+  translation: Code
+
 - id: btn_dataset
-  translation: набор от данни
+  translation: Dataset
+
 - id: btn_project
-  translation: Проект
+  translation: Project
+
 - id: btn_poster
-  translation: Плакат
+  translation: Poster
+
 - id: btn_source
-  translation: Изходен документ
+  translation: Source Document
+
 - id: btn_copy
-  translation: копие
+  translation: Copy
+
 - id: btn_download
-  translation: Изтегляне
-- идентификатор: интереси
-  translation: Интереси
-- идентификатор: образование
-  translation: Образование
+  translation: Download
+
+# About widget
+
+- id: interests
+  translation: Interests
+
+- id: education
+  translation: Education
+
 - id: user_profile_latest
-  translation: Последни
+  translation: Latest
+
+# Accomplishments widget
+
 - id: see_certificate
-  translation: Покажи сертификат
+  translation: See certificate
+
+# Experience widget
+
 - id: present
-  translation: Current
+  translation: Present
+
+# Pages widget
+
 - id: more_pages
-  translation: Покажи всички
+  translation: See all
+
 - id: more_posts
-  translation: Още публикации в блога
+  translation: See all posts
+
 - id: more_talks
-  translation: Повече разговори
+  translation: See all events
+
 - id: more_publications
-  translation: Още публикации
+  translation: See all publications
+
+# Contact widget
+
 - id: contact_name
-  translation: Име
+  translation: Name
+
 - id: contact_email
-  translation: E-mail
+  translation: Email
+
 - id: contact_message
-  translation: Съобщение
+  translation: Message
+  
+- id: contact_attachment
+  translation: Attach file
+
 - id: contact_send
-  translation: Изпрати
+  translation: Send
+
 - id: book_appointment
-  translation: Направете среща
+  translation: Book an appointment
+
+# Publication/Event details
+
 - id: abstract
-  translation: резюме
-- id: публикация
-  translation: Публикация
+  translation: Abstract
+
+- id: publication
+  translation: Publication
+
 - id: publication_type
-  translation: Тип
-- id: дата
-  translation: Дата
+  translation: Type
+
+- id: date
+  translation: Date
+
 - id: last_updated
-  translation: Последно актуализиран на
-- id: събитие
-  translation: Събитие
-- id: местоположение
-  translation: Местоположение
+  translation: Last updated on
+
+- id: event
+  translation: Event
+
+- id: location
+  translation: Location
+
 - id: pub_uncat
-  translation: Без категория
+  translation: Uncategorized
+
 - id: pub_conf
-  translation: доклад от конференция
+  translation: Conference paper
+
 - id: pub_journal
-  translation: статия в списание
+  translation: Journal article
+
 - id: pub_preprint
-  translation: Предпечат
+  translation: Preprint
+
 - id: pub_report
-  translation: Доклад
+  translation: Report
+
 - id: pub_book
-  translation: Книга
+  translation: Book
+
 - id: pub_book_section
-  translation: Глава от книга
+  translation: Book section
+
 - id: pub_thesis
-  translation: дипломна работа
+  translation: Thesis
+
 - id: pub_patent
-  translation: Патент
+  translation: Patent
+
+# Project details
+
 - id: open_project_site
-  translation: До обекта на проекта
-- id: публикации
-  translation: Блог
-- id: публикации
-  translation: Публикации
-- id: разговори
-  translation: Разговори
+  translation: Go to Project Site
+
+# Content types for default archive page titles and search results
+
+- id: posts
+  translation: Posts
+
+- id: publications
+  translation: Publications
+
+- id: talks
+  translation: Events
+
 - id: projects
-  translation: Проекти
-- id: слайдове
+  translation: Projects
+
+- id: slides
   translation: Slides
-- id: автори
-  translation: Автори
-- идентификатор: търсене
-  translation: Търсене
+
+- id: authors
+  translation: Authors
+
+# Search
+
+- id: search
+  translation: Search
+
 - id: search_placeholder
-  translation: Търсене...
+  translation: Search...
+
 - id: search_results
-  translation: Резултати от търсенето
+  translation: results found
+
 - id: search_no_results
-  translation: Нищо не е намерено
+  translation: No results found
+
 - id: search_common_queries
-  translation: Общи търсения
+  translation: Common searches
+
+# Error 404
+
 - id: page_not_found
-  translation: Страницата не е намерена
+  translation: Page not found
+
 - id: 404_recommendations
-  translation: Може би търсите някоя от следните страници?
+  translation: Perhaps you were looking for one of these?
+
+# Cookie consent
+
 - id: cookie_message
-  translation: Използваме "бисквитки", за да оптимизираме и непрекъснато да подобряваме нашия уебсайт за вас.
+  translation: This website uses cookies to ensure you get the best experience on our website.
+
 - id: cookie_dismiss
-  translation: Разбрах!
+  translation: Got it!
+
 - id: cookie_learn
-  translation: Научете повече
+  translation: Learn more
+
+# Published with
+
 - id: published_with
-  translation: Публикувано с {wowchemy} - безплатния, {repo_link}отворен източник{/repo_link} Сайт конструктор, който дава възможност на създателите.  
-#
+  translation: Satorex. Making the right decision every day. Fighting Fraud. Honest Reviews.
