@@ -1,8 +1,8 @@
 ---
-title: Ruben Jansen
+title: ルーベン・ヤンセン
 role: ""
 avatar_filename: avatar-ruben-jansen.jpg
-bio: Ich studierte gerade Informatik, als meiner Familie etwas Schreckliches passierte. Mein Großvater hatte auf eine Anzeige im Internet geklickt. Er wurde monatelang von einem persönlichen Berater angerufen. Dieser Berater legte angeblich das Geld meines Großvaters an. In Wirklichkeit wurde mein Großvater betrogen, er verlor 74.000 Euro und hatte einen Kredit über 32.000 Euro aufgenommen. Damals habe ich Freunde aus meinem Fußballverein gefragt, wie wir diese Betrüger finden oder was wir tun könnten. Meine Freunde und ich waren überrascht, als wir feststellten, wie groß die Betrugsindustrie ist. Gemeinsam beschlossen wir, gegen diese Branche zu kämpfen.
+bio: 私がコンピューターサイエンスを勉強していたとき、家族に恐ろしいことが起こりました。祖父がインターネット上の広告をクリックしたのです。個人アドバイザーに何カ月も呼び出された。このアドバイザーは、私の祖父のお金を投資したとされています。実際、祖父は騙され、74,000ユーロを失い、32,000ユーロのローンを組んでいた。そのとき、所属するサッカークラブの仲間に「どうやったらこの詐欺師を見つけられるのか、何ができるのか」と相談したんです。友人と私は、詐欺の業界がいかに大きいかを知って驚きました。私たちは一緒にこの業界と戦うことを決意しました。
 interests: []
 social: []
 organizations: []
@@ -14,6 +14,6 @@ highlight_name: true
 ---
 <!--StartFragment-->
 
-Ich studierte gerade Informatik, als meiner Familie etwas Schreckliches passierte. Mein Großvater hatte auf eine Anzeige im Internet geklickt. Er wurde monatelang von einem persönlichen Berater angerufen. Dieser Berater legte angeblich das Geld meines Großvaters an. In Wirklichkeit wurde mein Großvater betrogen, er verlor 74.000 Euro und hatte einen Kredit über 32.000 Euro aufgenommen. Damals habe ich Freunde aus meinem Fußballverein gefragt, wie wir diese Betrüger finden oder was wir tun könnten. Meine Freunde und ich waren überrascht, als wir feststellten, wie groß die Betrugsindustrie ist. Gemeinsam beschlossen wir, gegen diese Branche zu kämpfen.
+私がコンピューターサイエンスを勉強していたとき、家族に恐ろしいことが起こりました。祖父がインターネット上の広告をクリックしたのです。個人アドバイザーに何カ月も呼び出された。このアドバイザーは、私の祖父のお金を投資したとされています。実際、祖父は騙され、74,000ユーロを失い、32,000ユーロのローンを組んでいた。そのとき、所属するサッカークラブの仲間に「どうやったらこの詐欺師を見つけられるのか、何ができるのか」と相談したんです。友人と私は、詐欺の業界がいかに大きいかを知って驚きました。私たちは一緒にこの業界と戦うことを決意しました。
 
 <!--EndFragment-->

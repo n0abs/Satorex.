@@ -2,7 +2,7 @@
 title: Ruben Jansen
 role: ""
 avatar_filename: avatar-ruben-jansen.jpg
-bio: Ich studierte gerade Informatik, als meiner Familie etwas Schreckliches passierte. Mein Großvater hatte auf eine Anzeige im Internet geklickt. Er wurde monatelang von einem persönlichen Berater angerufen. Dieser Berater legte angeblich das Geld meines Großvaters an. In Wirklichkeit wurde mein Großvater betrogen, er verlor 74.000 Euro und hatte einen Kredit über 32.000 Euro aufgenommen. Damals habe ich Freunde aus meinem Fußballverein gefragt, wie wir diese Betrüger finden oder was wir tun könnten. Meine Freunde und ich waren überrascht, als wir feststellten, wie groß die Betrugsindustrie ist. Gemeinsam beschlossen wir, gegen diese Branche zu kämpfen.
+bio: Eu estava a estudar informática quando algo terrível aconteceu à minha família. O meu avô tinha clicado num anúncio na Internet. Foi chamado durante meses por um conselheiro pessoal. Este conselheiro supostamente investiu o dinheiro do meu avô. Na realidade, o meu avô foi enganado, perdeu 74.000 euros e tinha contraído um empréstimo de 32.000 euros. Nessa altura, perguntei a amigos do meu clube de futebol como podíamos encontrar estes autores de fraudes ou o que podíamos fazer. Os meus amigos e eu ficámos surpreendidos quando nos apercebemos da dimensão da indústria da burla. Juntos decidimos lutar contra esta indústria.
 interests: []
 social: []
 organizations: []
@@ -14,6 +14,6 @@ highlight_name: true
 ---
 <!--StartFragment-->
 
-Ich studierte gerade Informatik, als meiner Familie etwas Schreckliches passierte. Mein Großvater hatte auf eine Anzeige im Internet geklickt. Er wurde monatelang von einem persönlichen Berater angerufen. Dieser Berater legte angeblich das Geld meines Großvaters an. In Wirklichkeit wurde mein Großvater betrogen, er verlor 74.000 Euro und hatte einen Kredit über 32.000 Euro aufgenommen. Damals habe ich Freunde aus meinem Fußballverein gefragt, wie wir diese Betrüger finden oder was wir tun könnten. Meine Freunde und ich waren überrascht, als wir feststellten, wie groß die Betrugsindustrie ist. Gemeinsam beschlossen wir, gegen diese Branche zu kämpfen.
+Eu estava a estudar informática quando algo terrível aconteceu à minha família. O meu avô tinha clicado num anúncio na Internet. Foi chamado durante meses por um conselheiro pessoal. Este conselheiro supostamente investiu o dinheiro do meu avô. Na realidade, o meu avô foi enganado, perdeu 74.000 euros e tinha contraído um empréstimo de 32.000 euros. Nessa altura, perguntei a amigos do meu clube de futebol como podíamos encontrar estes autores de fraudes ou o que podíamos fazer. Os meus amigos e eu ficámos surpreendidos quando nos apercebemos da dimensão da indústria da burla. Juntos decidimos lutar contra esta indústria.
 
 <!--EndFragment-->

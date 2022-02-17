@@ -2,7 +2,7 @@
 title: Ruben Jansen
 role: ""
 avatar_filename: avatar-ruben-jansen.jpg
-bio: Ich studierte gerade Informatik, als meiner Familie etwas Schreckliches passierte. Mein Großvater hatte auf eine Anzeige im Internet geklickt. Er wurde monatelang von einem persönlichen Berater angerufen. Dieser Berater legte angeblich das Geld meines Großvaters an. In Wirklichkeit wurde mein Großvater betrogen, er verlor 74.000 Euro und hatte einen Kredit über 32.000 Euro aufgenommen. Damals habe ich Freunde aus meinem Fußballverein gefragt, wie wir diese Betrüger finden oder was wir tun könnten. Meine Freunde und ich waren überrascht, als wir feststellten, wie groß die Betrugsindustrie ist. Gemeinsam beschlossen wir, gegen diese Branche zu kämpfen.
+bio: Ik studeerde computerwetenschappen toen er iets vreselijks met mijn familie gebeurde. Mijn grootvader had geklikt op een advertentie op het internet. Hij werd maandenlang gebeld door een persoonlijke adviseur. Deze adviseur zou het geld van mijn grootvader hebben belegd. In werkelijkheid werd mijn grootvader bedrogen, hij verloor 74.000 euro en had een lening aangegaan van 32.000 euro. Ik vroeg toen aan vrienden van mijn voetbalclub hoe we deze oplichters konden vinden of wat we konden doen. Mijn vrienden en ik waren verbaasd toen we beseften hoe groot de zwendelindustrie is. Samen besloten we tegen deze industrie te vechten.
 interests: []
 social: []
 organizations: []
@@ -14,6 +14,6 @@ highlight_name: true
 ---
 <!--StartFragment-->
 
-Ich studierte gerade Informatik, als meiner Familie etwas Schreckliches passierte. Mein Großvater hatte auf eine Anzeige im Internet geklickt. Er wurde monatelang von einem persönlichen Berater angerufen. Dieser Berater legte angeblich das Geld meines Großvaters an. In Wirklichkeit wurde mein Großvater betrogen, er verlor 74.000 Euro und hatte einen Kredit über 32.000 Euro aufgenommen. Damals habe ich Freunde aus meinem Fußballverein gefragt, wie wir diese Betrüger finden oder was wir tun könnten. Meine Freunde und ich waren überrascht, als wir feststellten, wie groß die Betrugsindustrie ist. Gemeinsam beschlossen wir, gegen diese Branche zu kämpfen.
+Ik studeerde computerwetenschappen toen er iets vreselijks met mijn familie gebeurde. Mijn grootvader had geklikt op een advertentie op het internet. Hij werd maandenlang gebeld door een persoonlijke adviseur. Deze adviseur zou het geld van mijn grootvader hebben belegd. In werkelijkheid werd mijn grootvader bedrogen, hij verloor 74.000 euro en had een lening aangegaan van 32.000 euro. Ik vroeg toen aan vrienden van mijn voetbalclub hoe we deze oplichters konden vinden of wat we konden doen. Mijn vrienden en ik waren verbaasd toen we beseften hoe groot de zwendelindustrie is. Samen besloten we tegen deze industrie te vechten.
 
 <!--EndFragment-->

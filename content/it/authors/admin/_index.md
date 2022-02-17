@@ -2,7 +2,7 @@
 title: Ruben Jansen
 role: ""
 avatar_filename: avatar-ruben-jansen.jpg
-bio: Ich studierte gerade Informatik, als meiner Familie etwas Schreckliches passierte. Mein Großvater hatte auf eine Anzeige im Internet geklickt. Er wurde monatelang von einem persönlichen Berater angerufen. Dieser Berater legte angeblich das Geld meines Großvaters an. In Wirklichkeit wurde mein Großvater betrogen, er verlor 74.000 Euro und hatte einen Kredit über 32.000 Euro aufgenommen. Damals habe ich Freunde aus meinem Fußballverein gefragt, wie wir diese Betrüger finden oder was wir tun könnten. Meine Freunde und ich waren überrascht, als wir feststellten, wie groß die Betrugsindustrie ist. Gemeinsam beschlossen wir, gegen diese Branche zu kämpfen.
+bio: Stavo studiando informatica quando è successo qualcosa di terribile alla mia famiglia. Mio nonno aveva cliccato su un annuncio su internet. È stato chiamato per mesi da un consigliere personale. Questo consulente avrebbe investito i soldi di mio nonno. In realtà, mio nonno è stato truffato, ha perso 74.000 euro e aveva preso un prestito di 32.000 euro. A quel tempo, ho chiesto agli amici della mia squadra di calcio come potevamo trovare questi truffatori o cosa potevamo fare. Io e i miei amici siamo rimasti sorpresi quando ci siamo resi conto di quanto sia grande l'industria della truffa. Insieme abbiamo deciso di lottare contro questa industria.
 interests: []
 social: []
 organizations: []
@@ -14,6 +14,6 @@ highlight_name: true
 ---
 <!--StartFragment-->
 
-Ich studierte gerade Informatik, als meiner Familie etwas Schreckliches passierte. Mein Großvater hatte auf eine Anzeige im Internet geklickt. Er wurde monatelang von einem persönlichen Berater angerufen. Dieser Berater legte angeblich das Geld meines Großvaters an. In Wirklichkeit wurde mein Großvater betrogen, er verlor 74.000 Euro und hatte einen Kredit über 32.000 Euro aufgenommen. Damals habe ich Freunde aus meinem Fußballverein gefragt, wie wir diese Betrüger finden oder was wir tun könnten. Meine Freunde und ich waren überrascht, als wir feststellten, wie groß die Betrugsindustrie ist. Gemeinsam beschlossen wir, gegen diese Branche zu kämpfen.
+Stavo studiando informatica quando è successo qualcosa di terribile alla mia famiglia. Mio nonno aveva cliccato su un annuncio su internet. È stato chiamato per mesi da un consigliere personale. Questo consulente avrebbe investito i soldi di mio nonno. In realtà, mio nonno è stato truffato, ha perso 74.000 euro e aveva preso un prestito di 32.000 euro. A quel tempo, ho chiesto agli amici della mia squadra di calcio come potevamo trovare questi truffatori o cosa potevamo fare. Io e i miei amici siamo rimasti sorpresi quando ci siamo resi conto di quanto sia grande l'industria della truffa. Insieme abbiamo deciso di lottare contro questa industria.
 
 <!--EndFragment-->

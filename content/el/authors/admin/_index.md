@@ -2,7 +2,7 @@
 title: Ruben Jansen
 role: ""
 avatar_filename: avatar-ruben-jansen.jpg
-bio: Ich studierte gerade Informatik, als meiner Familie etwas Schreckliches passierte. Mein Großvater hatte auf eine Anzeige im Internet geklickt. Er wurde monatelang von einem persönlichen Berater angerufen. Dieser Berater legte angeblich das Geld meines Großvaters an. In Wirklichkeit wurde mein Großvater betrogen, er verlor 74.000 Euro und hatte einen Kredit über 32.000 Euro aufgenommen. Damals habe ich Freunde aus meinem Fußballverein gefragt, wie wir diese Betrüger finden oder was wir tun könnten. Meine Freunde und ich waren überrascht, als wir feststellten, wie groß die Betrugsindustrie ist. Gemeinsam beschlossen wir, gegen diese Branche zu kämpfen.
+bio: Σπούδαζα πληροφορική όταν συνέβη κάτι τρομερό στην οικογένειά μου. Ο παππούς μου είχε κάνει κλικ σε μια διαφήμιση στο διαδίκτυο. Τον καλούσε επί μήνες ένας προσωπικός του σύμβουλος. Αυτός ο σύμβουλος υποτίθεται ότι επένδυσε τα χρήματα του παππού μου. Στην πραγματικότητα, ο παππούς μου εξαπατήθηκε, έχασε 74.000 ευρώ και είχε πάρει δάνειο για 32.000 ευρώ. Εκείνη την εποχή, ρώτησα φίλους από την ποδοσφαιρική μου ομάδα πώς θα μπορούσαμε να βρούμε αυτούς τους απατεώνες ή τι θα μπορούσαμε να κάνουμε. Οι φίλοι μου και εγώ εκπλαγήκαμε όταν συνειδητοποιήσαμε πόσο μεγάλη είναι η βιομηχανία της απάτης. Μαζί αποφασίσαμε να αγωνιστούμε ενάντια σε αυτή τη βιομηχανία.
 interests: []
 social: []
 organizations: []
@@ -14,6 +14,6 @@ highlight_name: true
 ---
 <!--StartFragment-->
 
-Ich studierte gerade Informatik, als meiner Familie etwas Schreckliches passierte. Mein Großvater hatte auf eine Anzeige im Internet geklickt. Er wurde monatelang von einem persönlichen Berater angerufen. Dieser Berater legte angeblich das Geld meines Großvaters an. In Wirklichkeit wurde mein Großvater betrogen, er verlor 74.000 Euro und hatte einen Kredit über 32.000 Euro aufgenommen. Damals habe ich Freunde aus meinem Fußballverein gefragt, wie wir diese Betrüger finden oder was wir tun könnten. Meine Freunde und ich waren überrascht, als wir feststellten, wie groß die Betrugsindustrie ist. Gemeinsam beschlossen wir, gegen diese Branche zu kämpfen.
+Σπούδαζα πληροφορική όταν συνέβη κάτι τρομερό στην οικογένειά μου. Ο παππούς μου είχε κάνει κλικ σε μια διαφήμιση στο διαδίκτυο. Τον καλούσε επί μήνες ένας προσωπικός του σύμβουλος. Αυτός ο σύμβουλος υποτίθεται ότι επένδυσε τα χρήματα του παππού μου. Στην πραγματικότητα, ο παππούς μου εξαπατήθηκε, έχασε 74.000 ευρώ και είχε πάρει δάνειο για 32.000 ευρώ. Εκείνη την εποχή, ρώτησα φίλους από την ποδοσφαιρική μου ομάδα πώς θα μπορούσαμε να βρούμε αυτούς τους απατεώνες ή τι θα μπορούσαμε να κάνουμε. Οι φίλοι μου και εγώ εκπλαγήκαμε όταν συνειδητοποιήσαμε πόσο μεγάλη είναι η βιομηχανία της απάτης. Μαζί αποφασίσαμε να αγωνιστούμε ενάντια σε αυτή τη βιομηχανία.
 
 <!--EndFragment-->

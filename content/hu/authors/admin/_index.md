@@ -2,7 +2,7 @@
 title: Ruben Jansen
 role: ""
 avatar_filename: avatar-ruben-jansen.jpg
-bio: Ich studierte gerade Informatik, als meiner Familie etwas Schreckliches passierte. Mein Großvater hatte auf eine Anzeige im Internet geklickt. Er wurde monatelang von einem persönlichen Berater angerufen. Dieser Berater legte angeblich das Geld meines Großvaters an. In Wirklichkeit wurde mein Großvater betrogen, er verlor 74.000 Euro und hatte einen Kredit über 32.000 Euro aufgenommen. Damals habe ich Freunde aus meinem Fußballverein gefragt, wie wir diese Betrüger finden oder was wir tun könnten. Meine Freunde und ich waren überrascht, als wir feststellten, wie groß die Betrugsindustrie ist. Gemeinsam beschlossen wir, gegen diese Branche zu kämpfen.
+bio: Informatikát tanultam, amikor valami szörnyűség történt a családommal. Nagyapám rákattintott egy hirdetésre az interneten. Hónapokig hívta egy személyes tanácsadója. Ez a tanácsadó állítólag a nagyapám pénzét fektette be. A valóságban nagyapámat becsapták, 74 000 eurót vesztett, és 32 000 euróra vett fel hitelt. Akkoriban megkérdeztem a barátaimat a futballklubomból, hogyan találhatnánk meg ezeket a csalókat, vagy mit tehetnénk. A barátaim és én meglepődtünk, amikor rájöttünk, hogy milyen nagy a csalóipar. Együtt úgy döntöttünk, hogy harcolunk ez ellen az iparág ellen.
 interests: []
 social: []
 organizations: []
@@ -14,6 +14,6 @@ highlight_name: true
 ---
 <!--StartFragment-->
 
-Ich studierte gerade Informatik, als meiner Familie etwas Schreckliches passierte. Mein Großvater hatte auf eine Anzeige im Internet geklickt. Er wurde monatelang von einem persönlichen Berater angerufen. Dieser Berater legte angeblich das Geld meines Großvaters an. In Wirklichkeit wurde mein Großvater betrogen, er verlor 74.000 Euro und hatte einen Kredit über 32.000 Euro aufgenommen. Damals habe ich Freunde aus meinem Fußballverein gefragt, wie wir diese Betrüger finden oder was wir tun könnten. Meine Freunde und ich waren überrascht, als wir feststellten, wie groß die Betrugsindustrie ist. Gemeinsam beschlossen wir, gegen diese Branche zu kämpfen.
+Informatikát tanultam, amikor valami szörnyűség történt a családommal. Nagyapám rákattintott egy hirdetésre az interneten. Hónapokig hívta egy személyes tanácsadója. Ez a tanácsadó állítólag a nagyapám pénzét fektette be. A valóságban nagyapámat becsapták, 74 000 eurót vesztett, és 32 000 euróra vett fel hitelt. Akkoriban megkérdeztem a barátaimat a futballklubomból, hogyan találhatnánk meg ezeket a csalókat, vagy mit tehetnénk. A barátaim és én meglepődtünk, amikor rájöttünk, hogy milyen nagy a csalóipar. Együtt úgy döntöttünk, hogy harcolunk ez ellen az iparág ellen.
 
 <!--EndFragment-->

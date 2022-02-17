@@ -1,8 +1,8 @@
 ---
-title: Ruben Jansen
+title: 鲁本-詹森
 role: ""
 avatar_filename: avatar-ruben-jansen.jpg
-bio: Ich studierte gerade Informatik, als meiner Familie etwas Schreckliches passierte. Mein Großvater hatte auf eine Anzeige im Internet geklickt. Er wurde monatelang von einem persönlichen Berater angerufen. Dieser Berater legte angeblich das Geld meines Großvaters an. In Wirklichkeit wurde mein Großvater betrogen, er verlor 74.000 Euro und hatte einen Kredit über 32.000 Euro aufgenommen. Damals habe ich Freunde aus meinem Fußballverein gefragt, wie wir diese Betrüger finden oder was wir tun könnten. Meine Freunde und ich waren überrascht, als wir feststellten, wie groß die Betrugsindustrie ist. Gemeinsam beschlossen wir, gegen diese Branche zu kämpfen.
+bio: 我正在学习计算机科学，我的家人发生了可怕的事情。我的祖父在互联网上点击了一个广告。他被一个私人顾问叫去了好几个月。这位顾问据说将我祖父的钱用于投资。实际上，我的祖父被骗了，他损失了74,000欧元，并借了32,000欧元的贷款。当时，我问我的足球俱乐部的朋友，我们如何能找到这些骗子，或者我们能做什么。当我和我的朋友意识到诈骗行业有多大时，我们感到很惊讶。我们一起决定与这个行业作斗争。
 interests: []
 social: []
 organizations: []
@@ -14,6 +14,6 @@ highlight_name: true
 ---
 <!--StartFragment-->
 
-Ich studierte gerade Informatik, als meiner Familie etwas Schreckliches passierte. Mein Großvater hatte auf eine Anzeige im Internet geklickt. Er wurde monatelang von einem persönlichen Berater angerufen. Dieser Berater legte angeblich das Geld meines Großvaters an. In Wirklichkeit wurde mein Großvater betrogen, er verlor 74.000 Euro und hatte einen Kredit über 32.000 Euro aufgenommen. Damals habe ich Freunde aus meinem Fußballverein gefragt, wie wir diese Betrüger finden oder was wir tun könnten. Meine Freunde und ich waren überrascht, als wir feststellten, wie groß die Betrugsindustrie ist. Gemeinsam beschlossen wir, gegen diese Branche zu kämpfen.
+我正在学习计算机科学，我的家人发生了可怕的事情。我的祖父在互联网上点击了一个广告。他被一个私人顾问叫去了好几个月。这位顾问据说将我祖父的钱用于投资。实际上，我的祖父被骗了，他损失了74,000欧元，并借了32,000欧元的贷款。当时，我问我的足球俱乐部的朋友，我们如何能找到这些骗子，或者我们能做什么。当我和我的朋友意识到诈骗行业有多大时，我们感到很惊讶。我们一起决定与这个行业作斗争。
 
 <!--EndFragment-->

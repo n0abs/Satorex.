@@ -2,7 +2,7 @@
 title: Ruben Jansen
 role: ""
 avatar_filename: avatar-ruben-jansen.jpg
-bio: Ich studierte gerade Informatik, als meiner Familie etwas Schreckliches passierte. Mein Großvater hatte auf eine Anzeige im Internet geklickt. Er wurde monatelang von einem persönlichen Berater angerufen. Dieser Berater legte angeblich das Geld meines Großvaters an. In Wirklichkeit wurde mein Großvater betrogen, er verlor 74.000 Euro und hatte einen Kredit über 32.000 Euro aufgenommen. Damals habe ich Freunde aus meinem Fußballverein gefragt, wie wir diese Betrüger finden oder was wir tun könnten. Meine Freunde und ich waren überrascht, als wir feststellten, wie groß die Betrugsindustrie ist. Gemeinsam beschlossen wir, gegen diese Branche zu kämpfen.
+bio: Ma õppisin informaatikat, kui minu perega juhtus midagi kohutavat. Minu vanaisa oli klikkinud internetis olevale reklaamile. Teda kutsus kuude kaupa isiklik nõustaja. See nõustaja investeeris väidetavalt minu vanaisa raha. Tegelikkuses oli minu vanaisa petetud, ta kaotas 74 000 eurot ja oli võtnud laenu 32 000 euro eest. Sel ajal küsisin oma jalgpalliklubi sõpradelt, kuidas me saaksime need petturid üles leida või mida me saaksime teha. Minu sõbrad ja mina olime üllatunud, kui saime aru, kui suur on see kelmustööstus. Me otsustasime üheskoos selle tööstuse vastu võidelda.
 interests: []
 social: []
 organizations: []
@@ -14,6 +14,6 @@ highlight_name: true
 ---
 <!--StartFragment-->
 
-Ich studierte gerade Informatik, als meiner Familie etwas Schreckliches passierte. Mein Großvater hatte auf eine Anzeige im Internet geklickt. Er wurde monatelang von einem persönlichen Berater angerufen. Dieser Berater legte angeblich das Geld meines Großvaters an. In Wirklichkeit wurde mein Großvater betrogen, er verlor 74.000 Euro und hatte einen Kredit über 32.000 Euro aufgenommen. Damals habe ich Freunde aus meinem Fußballverein gefragt, wie wir diese Betrüger finden oder was wir tun könnten. Meine Freunde und ich waren überrascht, als wir feststellten, wie groß die Betrugsindustrie ist. Gemeinsam beschlossen wir, gegen diese Branche zu kämpfen.
+Ma õppisin informaatikat, kui minu perega juhtus midagi kohutavat. Minu vanaisa oli klikkinud internetis olevale reklaamile. Teda kutsus kuude kaupa isiklik nõustaja. See nõustaja investeeris väidetavalt minu vanaisa raha. Tegelikkuses oli minu vanaisa petetud, ta kaotas 74 000 eurot ja oli võtnud laenu 32 000 euro eest. Sel ajal küsisin oma jalgpalliklubi sõpradelt, kuidas me saaksime need petturid üles leida või mida me saaksime teha. Minu sõbrad ja mina olime üllatunud, kui saime aru, kui suur on see kelmustööstus. Me otsustasime üheskoos selle tööstuse vastu võidelda.
 
 <!--EndFragment-->
