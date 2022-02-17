@@ -1,0 +1,16 @@
+main:
+  - name: Κριτικές
+    url: '/category/review/'
+    weight: 10
+  - name: Forex Broker
+    url: '/category/forex-broker/'
+    weight: 20
+  - name: Αυτόματη διαπραγμάτευση
+    url: '/category/autotrader/'
+    weight: 30
+  - name: Συστήματα Ponzi
+    url: '/category/ponzi/'
+    weight: 40
+  - name: Συστάσεις
+    url: '/category/recommendation/'
+    weight: 50

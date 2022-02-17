@@ -1,0 +1,16 @@
+main:
+  - name: Anmeldelser
+    url: '/category/review/'
+    weight: 10
+  - name: Forex mægler
+    url: '/category/forex-broker/'
+    weight: 20
+  - name: Autotrading
+    url: '/category/autotrader/'
+    weight: 30
+  - name: Ponzi-ordninger
+    url: '/category/ponzi/'
+    weight: 40
+  - name: Anbefalinger
+    url: '/category/recommendation/'
+    weight: 50

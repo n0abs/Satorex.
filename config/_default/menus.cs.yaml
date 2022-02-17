@@ -1,0 +1,16 @@
+main:
+  - name: Recenze
+    url: '/category/review/'
+    weight: 10
+  - name: Forex Broker
+    url: '/category/forex-broker/'
+    weight: 20
+  - name: Autotrading
+    url: '/category/autotrader/'
+    weight: 30
+  - name: Ponziho schémata
+    url: '/category/ponzi/'
+    weight: 40
+  - name: Doporučení
+    url: '/category/recommendation/'
+    weight: 50
