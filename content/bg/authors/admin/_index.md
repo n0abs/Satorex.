@@ -1,8 +1,8 @@
 ---
-title: Ruben Jansen
+title: Рубен Янсен (Ruben Jansen)
 role: ""
 avatar_filename: avatar-ruben-jansen.jpg
-bio: Ich studierte gerade Informatik, als meiner Familie etwas Schreckliches passierte. Mein Großvater hatte auf eine Anzeige im Internet geklickt. Er wurde monatelang von einem persönlichen Berater angerufen. Dieser Berater legte angeblich das Geld meines Großvaters an. In Wirklichkeit wurde mein Großvater betrogen, er verlor 74.000 Euro und hatte einen Kredit über 32.000 Euro aufgenommen. Damals habe ich Freunde aus meinem Fußballverein gefragt, wie wir diese Betrüger finden oder was wir tun könnten. Meine Freunde und ich waren überrascht, als wir feststellten, wie groß die Betrugsindustrie ist. Gemeinsam beschlossen wir, gegen diese Branche zu kämpfen.
+bio: Учех компютърни науки, когато в семейството ми се случи нещо ужасно. Дядо ми беше кликнал върху реклама в интернет. В продължение на месеци му се обажда личен съветник. Този консултант уж инвестирал парите на дядо ми. Всъщност дядо ми е бил измамен, загубил е 74 000 евро и е взел заем за 32 000 евро. Тогава попитах приятелите си от футболния клуб как можем да открием тези измамници или какво можем да направим. Аз и моите приятели бяхме изненадани, когато разбрахме колко голяма е индустрията на измамите. Заедно решихме да се борим срещу тази индустрия.
 interests: []
 social: []
 organizations: []
@@ -14,6 +14,6 @@ highlight_name: true
 ---
 <!--StartFragment-->
 
-Ich studierte gerade Informatik, als meiner Familie etwas Schreckliches passierte. Mein Großvater hatte auf eine Anzeige im Internet geklickt. Er wurde monatelang von einem persönlichen Berater angerufen. Dieser Berater legte angeblich das Geld meines Großvaters an. In Wirklichkeit wurde mein Großvater betrogen, er verlor 74.000 Euro und hatte einen Kredit über 32.000 Euro aufgenommen. Damals habe ich Freunde aus meinem Fußballverein gefragt, wie wir diese Betrüger finden oder was wir tun könnten. Meine Freunde und ich waren überrascht, als wir feststellten, wie groß die Betrugsindustrie ist. Gemeinsam beschlossen wir, gegen diese Branche zu kämpfen.
+Учех компютърни науки, когато в семейството ми се случи нещо ужасно. Дядо ми беше кликнал върху реклама в интернет. В продължение на месеци му се обажда личен съветник. Този консултант уж инвестирал парите на дядо ми. Всъщност дядо ми е бил измамен, загубил е 74 000 евро и е взел заем за 32 000 евро. Тогава попитах приятелите си от футболния клуб как можем да открием тези измамници или какво можем да направим. Аз и моите приятели бяхме изненадани, когато разбрахме колко голяма е индустрията на измамите. Заедно решихме да се борим срещу тази индустрия.
 
 <!--EndFragment-->

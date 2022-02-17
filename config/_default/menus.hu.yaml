@@ -1,0 +1,16 @@
+main:
+  - name: Vélemények
+    url: '/category/review/'
+    weight: 10
+  - name: Forex bróker
+    url: '/category/forex-broker/'
+    weight: 20
+  - name: Autotrading
+    url: '/category/autotrader/'
+    weight: 30
+  - name: Ponzi sémák
+    url: '/category/ponzi/'
+    weight: 40
+  - name: Ajánlások
+    url: '/category/recommendation/'
+    weight: 50

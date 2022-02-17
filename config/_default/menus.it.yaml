@@ -1,0 +1,16 @@
+main:
+  - name: Recensioni
+    url: '/category/review/'
+    weight: 10
+  - name: Broker Forex
+    url: '/category/forex-broker/'
+    weight: 20
+  - name: Autotrading
+    url: '/category/autotrader/'
+    weight: 30
+  - name: Schemi di Ponzi
+    url: '/category/ponzi/'
+    weight: 40
+  - name: Raccomandazioni
+    url: '/category/recommendation/'
+    weight: 50

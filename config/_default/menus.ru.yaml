@@ -1,0 +1,16 @@
+main:
+  - name: Отзывы
+    url: '/category/review/'
+    weight: 10
+  - name: Форекс-брокер
+    url: '/category/forex-broker/'
+    weight: 20
+  - name: Автотрейдинг
+    url: '/category/autotrader/'
+    weight: 30
+  - name: Схемы Понци
+    url: '/category/ponzi/'
+    weight: 40
+  - name: Рекомендации
+    url: '/category/recommendation/'
+    weight: 50

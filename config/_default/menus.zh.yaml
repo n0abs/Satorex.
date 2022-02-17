@@ -1,0 +1,16 @@
+main:
+  - name: 评论
+    url: '/category/review/'
+    weight: 10
+  - name: 外汇经纪商
+    url: '/category/forex-broker/'
+    weight: 20
+  - name: 自动交易
+    url: '/category/autotrader/'
+    weight: 30
+  - name: 庞氏骗局
+    url: '/category/ponzi/'
+    weight: 40
+  - name: 建议
+    url: '/category/recommendation/'
+    weight: 50

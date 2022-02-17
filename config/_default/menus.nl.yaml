@@ -1,0 +1,16 @@
+main:
+  - name: Recensies
+    url: '/category/review/'
+    weight: 10
+  - name: Forex Makelaar
+    url: '/category/forex-broker/'
+    weight: 20
+  - name: Autotrading
+    url: '/category/autotrader/'
+    weight: 30
+  - name: Ponzi-systemen
+    url: '/category/ponzi/'
+    weight: 40
+  - name: Aanbevelingen
+    url: '/category/recommendation/'
+    weight: 50

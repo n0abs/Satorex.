@@ -1,0 +1,16 @@
+main:
+  - name: Arvustused
+    url: '/category/review/'
+    weight: 10
+  - name: Forexi maakler
+    url: '/category/forex-broker/'
+    weight: 20
+  - name: Autotrading
+    url: '/category/autotrader/'
+    weight: 30
+  - name: Ponzi skeemid
+    url: '/category/ponzi/'
+    weight: 40
+  - name: Soovitused
+    url: '/category/recommendation/'
+    weight: 50

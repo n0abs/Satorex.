@@ -1,0 +1,16 @@
+main:
+  - name: レビュー
+    url: '/category/review/'
+    weight: 10
+  - name: フォレックス・ブローカー
+    url: '/category/forex-broker/'
+    weight: 20
+  - name: オートトレーディング
+    url: '/category/autotrader/'
+    weight: 30
+  - name: ポンジスキャム
+    url: '/category/ponzi/'
+    weight: 40
+  - name: 推薦の言葉
+    url: '/category/recommendation/'
+    weight: 50

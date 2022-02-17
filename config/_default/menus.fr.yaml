@@ -1,0 +1,16 @@
+main:
+  - name: Critiques
+    url: '/category/review/'
+    weight: 10
+  - name: Courtier Forex
+    url: '/category/forex-broker/'
+    weight: 20
+  - name: Autotrading
+    url: '/category/autotrader/'
+    weight: 30
+  - name: Systèmes de Ponzi
+    url: '/category/ponzi/'
+    weight: 40
+  - name: Recommandations
+    url: '/category/recommendation/'
+    weight: 50

@@ -1,0 +1,16 @@
+main:
+  - name: Apžvalgos
+    url: '/category/review/'
+    weight: 10
+  - name: Forex brokeris
+    url: '/category/forex-broker/'
+    weight: 20
+  - name: Autotrading
+    url: '/category/autotrader/'
+    weight: 30
+  - name: Ponzi schemos
+    url: '/category/ponzi/'
+    weight: 40
+  - name: Rekomendacijos
+    url: '/category/recommendation/'
+    weight: 50
