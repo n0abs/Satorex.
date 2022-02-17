@@ -151,5 +151,5 @@
 - id: cookie_learn
   translation: Научете повече
 - id: published_with
-  translation: Публикувано с {wowchemy} - безплатния, {repo_link}отворен източник{/repo_link} Сайт конструктор, който дава възможност на създателите.
-  
+  translation: Публикувано с {wowchemy} - безплатния, {repo_link}отворен източник{/repo_link} Сайт конструктор, който дава възможност на създателите.  
+#
