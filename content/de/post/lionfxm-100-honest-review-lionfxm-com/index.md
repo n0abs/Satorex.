@@ -33,7 +33,7 @@ translationKey: LionFXM
 
 We have checked various regulators and could not find any licence. The company that is supposed to be behind **LionFXM** is called **AXA Business Solution Ltd**, this statement may be questioned.
 
-We assume that this provider is unregulated. Unregulated is not always a bad thing, but more red flags appeared during our check. Most clients – perhaps including you – end up with this provider via one of the various **[“auto trading software”](https://satorex.com/auto-trading-software/)**. In any case, this software is non-existent.
+We assume that this provider is unregulated. Unregulated is not always a bad thing, but more red flags appeared during our check. Most clients – perhaps including you – end up with this provider via one of the various **[“auto trading software”](../../category/autotrader/)**. In any case, this software is non-existent.
 
 ## How does it work?
 
