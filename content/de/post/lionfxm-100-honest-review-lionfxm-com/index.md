@@ -2,7 +2,7 @@
 title: badabutz (lionfxm.com)
 subtitle: Read our **LionFXM** review to see if we recommend this broker for
   trading. Just to clarify, this is a **lionfxm.com** review.
-date: 2022-02-11T18:30:44.051Z
+date: 2022-02-11T
 summary: Read our LionFXM review to see if we recommend this broker for trading. Just to clarify, this is a lionfxm.com review.
 draft: false
 featured: true
