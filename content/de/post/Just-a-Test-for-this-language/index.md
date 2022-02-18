@@ -1,9 +1,9 @@
 ---
-title: TestFX 100% honest Review (TestFX.to)
-subtitle: Read our **TestFX** review to see if we recommend this broker for
-  trading. Just to clarify, this is a **TestFX.to** review.
+title: testfx 100% honest Review (testfx.to)
+subtitle: Read our **testfx** review to see if we recommend this broker for
+  trading. Just to clarify, this is a **testfx.to** review.
 date: 2020-12-13T00:00:00.000Z
-summary: Read our TestFX review to see if we recommend this broker for trading. Just to clarify, this is a TestFX.to review.
+summary: Read our testfx review to see if we recommend this broker for trading. Just to clarify, this is a testfx.to review.
 draft: false
 featured: false
 authors:
@@ -11,8 +11,8 @@ authors:
 projects: []
 tags:
   - review
-  - TestFX
-  - TestFX.to
+  - testfx
+  - testfx.to
 categories:
   - review
   - forex-broker
@@ -20,26 +20,26 @@ image:
   focal_point: center
   preview_only: false
   placement: 2
-  caption: Screenshot of TestFX.to
-  alt_text: Screenshot of Webpage TestFX.to
-translationKey: TestFX
+  caption: Screenshot of testfx.to
+  alt_text: Screenshot of Webpage testfx.to
+translationKey: testfx
 ---
 
 <!--StartFragment-->
 
 {{< toc >}}
 
-## Who is TestFX?
+## Who is testfx?
 
-**TestFX** is an internet based investment firm and offers trading in the CFD/Forex market. CFD means “Contract for difference” and is a contract between provider and user. With **TestFX**, the user is made to believe that he is trading on the financial market on the domain: **TestFX.to**. One can assume that the reality is quite different. The website was set up exclusively to deceive people.
+**testfx** is an internet based investment firm and offers trading in the CFD/Forex market. CFD means “Contract for difference” and is a contract between provider and user. With **testfx**, the user is made to believe that he is trading on the financial market on the domain: **testfx.to**. One can assume that the reality is quite different. The website was set up exclusively to deceive people.
 
-We have checked various regulators and could not find any licence. The company that is supposed to be behind **TestFX** is called **Test Global SV Ltd.**, this statement may be questioned.
+We have checked various regulators and could not find any licence. The company that is supposed to be behind **testfx** is called **TestFX Global SV Ltd.**, this statement may be questioned.
 
 We assume that this provider is unregulated. Unregulated is not always a bad thing, but more red flags appeared during our check. Most clients – perhaps including you – end up with this provider via one of the various **[“auto trading software”](../../category/autotrader/)**. In any case, this software is non-existent.
 
 ## How does it work?
 
-Unregulated forex brokers like **TestFX** usually work in the following way. The client signs up via a questionable advertisement and is then called by an employee of this company. The employee raves about the earning potential, what other traders have already achieved and how easy everything is with a personal account manager.
+Unregulated forex brokers like **testfx** usually work in the following way. The client signs up via a questionable advertisement and is then called by an employee of this company. The employee raves about the earning potential, what other traders have already achieved and how easy everything is with a personal account manager.
 
 The customer only has to deposit a small sum and perhaps account models with very special benefits will be sold. **Don’t fall for it.** Then you will have your personal account manager constantly selling you opportunities to deposit more and more. *This is justified with risk diversification, the once-in-a-lifetime chance to participate in a special event or the higher returns.*
 
@@ -51,7 +51,7 @@ That’s why you must always turn to crypto exchanges, because cryptocurrencies 
 
 ## Withdrawal of funds
 
-Providers like **TestFX** usually do not pay out the money again. You have to exploit a weakness of your personal account manager. These employees are paid from the deposit. Discuss a test withdrawal with your personal account manager so that you dare to make a larger deposit. Try 50% of your own deposit. Don’t be stupid! Do it yourself and not with Anydesk or Teamviewer. Either your adviser will cheat you or you will cheat him. There is no other truth.
+Providers like **testfx** usually do not pay out the money again. You have to exploit a weakness of your personal account manager. These employees are paid from the deposit. Discuss a test withdrawal with your personal account manager so that you dare to make a larger deposit. Try 50% of your own deposit. Don’t be stupid! Do it yourself and not with Anydesk or Teamviewer. Either your adviser will cheat you or you will cheat him. There is no other truth.
 
 ## Can I chargeback my payments?
 
@@ -69,13 +69,13 @@ If it was a crypto exchange, you have no chance. This company delivered the cryp
 
 If you made the payment today or yesterday, call the bank IMMEDIATELY. The bank can recall transfers. Some banks claim they can’t, but that’s nonsense. Put pressure on them.
 
-Then go to **[IBANCalculator](https://www.ibancalculator.com/)** and enter the IBAN of the recipient. This page will show you the recipient’s bank. Call the recipient’s bank and explain that this person is working with a fake investment company called **TestFX**, which is not regulated, and that you have been tricked into transferring money with lies.
+Then go to **[IBANCalculator](https://www.ibancalculator.com/)** and enter the IBAN of the recipient. This page will show you the recipient’s bank. Call the recipient’s bank and explain that this person is working with a fake investment company called **testfx**, which is not regulated, and that you have been tricked into transferring money with lies.
 
 If the bank is in another country, you can use Google Translate and send a very detailed email. You can find the contact information on the bank’s page.
 
 If the transfer happened a long time ago, the bank cannot do anything. Write an email to your bank to block the IBAN of the recipient.
 
-## You have been defrauded by TestFX a long time ago?
+## You have been defrauded by testfx a long time ago?
 
 Collect information about the transactions and make sure you save the advisor’s account details and any other information they have given you.
 
@@ -92,3 +92,7 @@ The fraudsters are mostly based in economically weak countries where corruption 
 If you’re really looking for a way to build your wealth through investing, take a look at our **[recommended brokers](../../category/recommendation/)**. We know what details you need to look out for. Investing money is a smart thing to do, but only if you rely on trustworthy companies.
 
 <!--EndFragment-->
+
+
+
+
