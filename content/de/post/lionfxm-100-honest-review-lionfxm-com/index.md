@@ -20,6 +20,7 @@ image:
   preview_only: false
   placement: 2
   caption: Screenshot of lionfxm.com
+  alt_text: Screenshot of Webpage lionfxm.com
 translationKey: LionFXM
 ---
 
