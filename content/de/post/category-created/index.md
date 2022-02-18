@@ -1,7 +1,7 @@
 ---
 title: Category created
 subtitle: This Subtitle has been created to create all categories and link them properly
-date: 2022-01-15T
+date: 2022-02-18T11:41:04Z
 summary: This Summary has been created to create all categories and link them properly
 draft: false
 featured: false
